@@ -91,10 +91,10 @@ I'm always open to collaborating on:
 ## 🎨 When I'm Not Coding
 
 - 🎯 Exploring **animation libraries** and **design systems**
+- 🎵 Appreciating good UI/UX design in the wild
 - 📖 Reading about **distributed systems** and **scalable architectures**
 - 🎮 Experimenting with **new frameworks** and **technologies**
-- ✍️ Writing technical articles and sharing knowledge
-- 🎵 Appreciating good UI/UX design in the wild
+
 
 ## 📫 Let's Connect!
 

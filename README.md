@@ -77,16 +77,16 @@ I'm always open to collaborating on:
 - 🚀 **Open source** - Contributing to meaningful projects
 - 🎨 **UI libraries** - Building beautiful, reusable components
 
-## 📊 GitHub Stats
 
-<div align="center">
+
+<!-- ## 📊 GitHub Stats <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marktech2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marktech2002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktech2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+</div> -->
 
 ## 🎨 When I'm Not Coding
 
@@ -99,13 +99,22 @@ I'm always open to collaborating on:
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-yaqubtawabolamilekan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaqubtawabolamilekan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+<a href="mailto:yaqubtawabolamilekan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin:0 8px;">
+</a>
+<a href="https://linkedin.com/in/yaqub-tawab-olamilekan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin:0 8px;">
+</a>
+<a href="https://twitter.com/d_maktech">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="28" style="margin:0 8px;">
+</a>
+<a href="https://maktech-place.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" height="28" style="margin:0 8px;">
+</a>
 
 </div>
+
 
 ---
 
